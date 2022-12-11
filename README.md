@@ -10,15 +10,9 @@
 
 #
 
-  <div align="center">
-<img  height="70em" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/brazil.png" > PT-BR <br>
-</div>   
+#### Projeto para iniciar o aprendizado do framework SASS, aqui consegui aprender como a melhor forma pra estruturar o projeto, iniciar a utilização de icons em svg, fontes externas, flexbox e grid, 
 
-
-  <div align="center">
-<img  height="70em" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/united-states.png" > EN-US <br>
-</div>   
-
+você pode conferir o projeto clicando [_AQUI_](https://sass-project-agency.vercel.app/)
 
 #
 
