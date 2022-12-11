@@ -2,7 +2,7 @@
 <div align = "center">
 
 
-# PROJETOS SASS - SCSS - HTML E REACT 
+# PROJETO AGENCY - SASS - SCSS - HTML 
 
 <img  height = "100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
           
