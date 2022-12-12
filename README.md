@@ -22,7 +22,7 @@ você pode conferir o projeto clicando [_AQUI_](https://sass-project-agency.verc
 
 
   <div align="center">
-<a  href="https://github.com/LeandroDukievicz" target="_blank"><img  height="200em" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/home.gif" target="_blank">
+<a  href="https://github.com/LeandroDukievicz" target="_blank"><img  height="250em"src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gif%20btn%20git.gif" target="_blank">
 </div>     
 
 
